@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "dbusers",
+    "MONGO_PASSWORD": "pass123",
+    "MONGO_DB": "doctor-appoinments"
+  }
+}
